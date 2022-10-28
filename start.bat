@@ -8,5 +8,4 @@ if exist node_modules\ (
   call npm i >> NUL
   node index
   pause
-  exit
 )
