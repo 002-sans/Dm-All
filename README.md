@@ -12,10 +12,13 @@ DM ALL was made for educational purposes, therefor all consequences caused by yo
 ---
 ## <a id="menu"></a>🔱 » Menu
 
+- [☄・Deploys](#deploys)
 - [🔰・Features](#features)
 - [🌌・Discord](https://discord.gg/qXM2j4BmCu)
 - [🎉・Setting up Nuker](#setup)
 - [⚙・Config](#config)
+## <a id="deploys"></a>☄ » Deploys
+> [Deploy with REPLIT](https://replit.com/github/002-sans/Nuker)
 
 ## <a id="features"></a>🛠 » Features
 
