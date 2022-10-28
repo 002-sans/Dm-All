@@ -1,7 +1,7 @@
 <h1 align="center">
   ☄ DM ALL V1.0.0 📨
 </h1>
----
+
 
 ![image](https://user-images.githubusercontent.com/99873347/198711683-6627b664-1ea5-4118-8f47-7bd968f03b83.png)
 
